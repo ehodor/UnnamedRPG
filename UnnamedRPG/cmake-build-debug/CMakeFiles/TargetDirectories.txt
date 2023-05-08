@@ -1,0 +1,3 @@
+/Users/emmahodor/CLionProjects/UnnamedRPG/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/emmahodor/CLionProjects/UnnamedRPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emmahodor/CLionProjects/UnnamedRPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
